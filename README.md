@@ -1,10 +1,10 @@
 Hi 👋 My name is Jeremiah Nkumsah
 =================================
 
-I have been learning and transitioning into DevOps for years now and has touched based on various tools throughout that tenure!
+DevOps Engineer for the last 3-4 years! Currently learning programming languages!
 
-* 🌍  I'm based in Delaware / Houston, TX
-* 🧠  I'm learning Ruby on Rails, CircleCI, etc.
+* 🌍  I'm based in Houston, TX
+* 🧠  I'm currently learning Ruby on Rails, Airflow
 * 🤝  I'm open to collaborating on CI/CD Projects
 * ⚡  I was also a Former NCAA Men's Basketball Player for a top 5 nationally ranked D2 School
 
