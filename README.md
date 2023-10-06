@@ -1,7 +1,7 @@
 Hi 👋 My name is Jeremiah Nkumsah
 =================================
 
-DevOps Engineer for the last 3-4 years! Currently learning programming languages!
+DevOps/Cloud Engineer for the last 6 years! Currently learning how to better my CI/CD Processes and Monitoring! Currently looking for similar roles in the job market, but in the meantime, I am an active KodeKloud student staying up to date with new technologies and tools in the world of DevOps!
 
 * 🌍  I'm based in Houston, TX
 * 🧠  I'm currently learning Terraform
