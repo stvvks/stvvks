@@ -1,10 +1,10 @@
 Hi 👋 My name is Jeremiah Nkumsah
 =================================
 
-DevOps/Cloud Engineer for the last 6 years! Currently learning how to better my CI/CD Processes and Monitoring! Currently looking for similar roles in the job market, but in the meantime, I am an active KodeKloud student staying up to date with new technologies and tools in the world of DevOps!
+DevOps/Cloud Engineer for the last 6 years! Currently learning how to better my CI/CD Processes and Monitoring! Currently looking for similar roles in the job market, but in the meantime, I am an active KodeKloud & Udemy student staying up to date with new technologies and tools in the world of DevOps!
 
 * 🌍  I'm based in Houston, TX
-* 🧠  I'm currently learning Terraform
+* 🧠  I'm currently focusing on Cloud Certifcations
 * 🤝  I'm open to collaborating on CI/CD Projects
 * ⚡  I was also a Former NCAA Men's Basketball Player for a top 5 nationally ranked D2 School
 
