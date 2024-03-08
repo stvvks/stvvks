@@ -3,8 +3,8 @@ Hi 👋 My name is Jeremiah Nkumsah
 
 DevOps/Cloud Engineer for the last 6 years! Currently learning Programming Languages! Currently looking for similar roles in the job market, but in the meantime, I am an active KodeKloud & Udemy student staying up to date with new technologies and tools in the world of DevOps!
 
-* 🌍  I'm based in Houston, TX
-* 🧠  I'm currently focusing on Cloud Certifcations
+* 🌍  I'm based in Houston, TX and Townsend, DE
+* 🧠  I'm currently focusing on Cloud Certs and programming languages
 * 🤝  I'm open to collaborating on CI/CD Projects
 * ⚡  I was also a Former NCAA Men's Basketball Player for a top 5 nationally ranked D2 School
 
